@@ -1,4 +1,4 @@
-# Discord Mass Ban
+# Discord Mass Unban
 
 A way to unban all members from a Discord Server.
 
